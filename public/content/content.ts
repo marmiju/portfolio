@@ -6,10 +6,10 @@ import { SiC, SiCplusplus, SiDart, SiDocker, SiExpress, SiFlutter, SiGit, SiGith
 
 export const homeData: HomeSection = {
   name: "MAR miju",
-  title: "Backend developer",
+  title: "Azizar Rahman",
   subtitle: "",
   description:
-    "I’m a full-stack developer specializing in JavaScript, TypeScript, Node.js, Prisma, and modern frontend tools like Next.js. I love turning ideas into clean and functional digital products.",
+    "I’m a backend developer specialising in JavaScript, TypeScript, Node.js, Prisma, and modern frontend tools like Next.js. I love turning ideas into clean and functional digital products.",
   profileImage: "https://i.ibb.co.com/JwtT2Hz3/mar.png",
   resume: 'https://drive.google.com/uc?export=download&id=1wBtEHACnzIFvP1lzHJ_2PS-vuHcLYl8K',
   socialLinks: {
@@ -28,7 +28,7 @@ export const aboutData: AboutSection = {
   location: "Rangpur city, Bangladesh",
   interests: [
     "Backend Development - first priority",
-    "Full stack development",
+    "Full-stack development",
   ],
   profileImage: "https://i.ibb.co.com/JwtT2Hz3/mar.png"
 };
@@ -134,12 +134,12 @@ export const portfolioData: PortfolioSection = {
       feature: [
         "responsive design",
         "Dark, Light mode based on user preference and system settings",
-        "student Contests and programs",
+        "Student Contests and Programs",
         "tracking user progress in contests",
-        "Addmisiion information",
+        "Admission information",
         "Authentication system with Google Login",
         "College programmes and facilities",
-        "teachers information",
+        "teachers' information",
         "notice board",
         "Contact section for inquiries and more",
       ]
