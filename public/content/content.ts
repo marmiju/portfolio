@@ -21,7 +21,7 @@ export const homeData: HomeSection = {
 };
 
 export const aboutData: AboutSection = {
-  fullName: "Developer Azizar",
+  fullName: "Azizar Rahman",
   bio: "I am a dedicated full-stack developer focused on building modern, responsive, and user-friendly web applications. I enjoy solving real-world problems using clean architecture and optimized backend logic.",
   email: "mar.miju.dev@gmail.com",
   whatsapp: '+8801860131470',
