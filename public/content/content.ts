@@ -11,7 +11,7 @@ export const homeData: HomeSection = {
   description:
     "I’m a full-stack developer specializing in JavaScript, TypeScript, Node.js, Prisma, and modern frontend tools like Next.js. I love turning ideas into clean and functional digital products.",
   profileImage: "https://i.ibb.co.com/JwtT2Hz3/mar.png",
-  resume: 'https://drive.google.com/uc?export=download&id=1UpjTipjI1Oa3lDxPFGtYp_OmJm-XM9jn',
+  resume: 'https://drive.google.com/uc?export=download&id=1wBtEHACnzIFvP1lzHJ_2PS-vuHcLYl8K',
   socialLinks: {
     github: "https://github.com/marmiju",
     linkedin: "https://linkedin.com/in/mar-miju",
