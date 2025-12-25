@@ -6,10 +6,10 @@ import { SiC, SiCplusplus, SiDart, SiDocker, SiExpress, SiFlutter, SiGit, SiGith
 
 export const homeData: HomeSection = {
   name: "MAR miju",
-  title: "Azizar Rahman",
+  title: "Fullstack developer",
   subtitle: "",
   description:
-    "I’m a backend developer specialising in JavaScript, TypeScript, Node.js, Prisma, and modern frontend tools like Next.js. I love turning ideas into clean and functional digital products.",
+    "I’m a fullstack developer specialising in JavaScript, TypeScript, Node.js, Prisma, and modern frontend tools like Next.js. I love turning ideas into clean and functional digital products.",
   profileImage: "https://i.ibb.co.com/JwtT2Hz3/mar.png",
   resume: 'https://drive.google.com/uc?export=download&id=1wBtEHACnzIFvP1lzHJ_2PS-vuHcLYl8K',
   socialLinks: {
