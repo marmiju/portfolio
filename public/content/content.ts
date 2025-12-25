@@ -101,21 +101,24 @@ export const portfolioData: PortfolioSection = {
     {
       id: "p2",
       title: "Bidrirectional Chat App",
-      category: ['backend',],
+      category: ['backend','frontend','fullstack'],
       description:
         ` frontend_under_development | Designed and developed a scalable real-time chat application backend that supports group messaging, online presence, and live typing indicators. The system efficiently handles both persistent message storage and real-time communication using REST APIs and WebSockets, ensuring reliable message delivery and a smooth user experience.`,
       technologies: ["Node.js", "Express.js", "MongoDB with Mongoose", "Socket.io (Web Socket)", "Rest API", "JWT Authentication", "vercel"],
       image: `https://i.ibb.co.com/8LV54Rw5/p2.png`,
       github: {
-        backend: 'https://github.com/marmiju/chat_backend'
+        backend: 'https://github.com/marmiju/chat_backend',
+        frontend:'https://chat-application-phi-drab.vercel.app'
+        
       },
+      liveDemo:'https://chat-application-phi-drab.vercel.app',
       feature: [
-        "Implemented Socket.IO rooms for efficient group- specific broadcasting",
+        "Implemented Socket.IO rooms for efficient group-specific broadcasting",
         "Used REST APIs for initial data loading and WebSockets for live updates",
         "Designed a delivery status system(sent/ read) per message",
         "Managed multiple socket connections per user for accurate presence tracking",
         "Ensured clean socket lifecycle handling(connect, disconnect, join, leave)",
-        "Prevented race conditions and memory leaks in real - time events"
+        "Prevented race conditions and memory leaks in real-time events"
       ]
     },
     {
